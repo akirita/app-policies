@@ -1,6 +1,6 @@
 # プライバシーポリシー / Privacy Policy
 
-**GPS Logger**
+**GPSログレコーダー**
 最終更新日 / Last updated: 2026-02-08
 
 ---
